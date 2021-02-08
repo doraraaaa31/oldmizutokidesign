@@ -210,7 +210,7 @@ body.noscroll{
 .kv-wrapper{
   height: 86.5%;
   width: 76.4%;
-  background-image: url(/images/kv-img.jpg);
+  background-image: url(kv-img.jpg);
   background-size: cover;
   background-position: center 0;
   position: relative;
@@ -262,7 +262,7 @@ body.noscroll{
 
 }
 .about-bg{
-  background-image: url(../images/about-img.jpg);
+  background-image: url(about-img.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
